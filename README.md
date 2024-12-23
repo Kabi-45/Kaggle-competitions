@@ -1,1 +1,1 @@
-# Kaggle_competitions
+This Repo contains my Kaggle competitions' notebooks.
