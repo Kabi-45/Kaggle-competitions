@@ -1,1 +1,1 @@
-This Repo contains my Kaggle competitions' notebooks.
+This Repo contains my Kaggle competition notebooks.
